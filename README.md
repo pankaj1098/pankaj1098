@@ -24,33 +24,29 @@ I work on:
 
 ## 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
+JavaScript (ES6+) | TypeScript
 
-JavaScript (ES6+), TypeScript
+### ⚛️ Frontend Frameworks & Libraries
+React | Next.js | Vue
 
-### Frontend Frameworks & Libraries
+### 🎨 Styling & UI
+Tailwind CSS | Material UI (MUI) | SCSS | CSS3 | HTML5
 
-React, Next.js, Vue, jQuery
+### 🔗 API & Data Handling
+Axios | REST APIs
 
-### State Management
+### 🧰 Developer Tools
+Git | GitHub | GitLens | VS Code
 
-Redux, Redux Toolkit, Zustand, Context API, Pinia
+### 📋 Project Management
+Jira | shortcut
 
-### Styling & UI
+### 🚀 Monitoring & Feature Management
+Sentry | Product Fruits | LaunchDarkly
 
-Tailwind CSS, Material UI (MUI), SCSS, CSS3, HTML5, Vuetify
-
-### API Integration
-
-Axios, REST APIs
-
-### Version Control & Developer Tools
-
-Git, GitHub, GitLens, VS Code
-
-### Project Collaboration
-
-Jira, Storybook
+### 🤖 AI Developer Tools
+Cursor | Claude | Codex | Lovable
 
 ### Production Monitoring & Feature Management
 
@@ -97,6 +93,10 @@ Axios integration with loading & error handling states
 * Frontend system design patterns
 
 ---
+
+## 🌐 Portfolio
+
+Coming soon...
 
 ## 📊 GitHub Stats
 
