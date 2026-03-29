@@ -44,6 +44,7 @@ I work on:
 
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
 ### 🧰 Developer Tools:
 
@@ -55,7 +56,7 @@ I work on:
 ### 📋 Project Management:
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge\&logo=storybook\&logoColor=white)
+![Shortcut](https://img.shields.io/badge/Shortcut-5B5BD6?style=for-the-badge)
 
 ### 🚀 Monitoring and Feature Management:
 
