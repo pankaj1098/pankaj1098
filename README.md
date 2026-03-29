@@ -22,39 +22,54 @@ I work on:
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### 👨‍💻 Languages
-JavaScript (ES6+) | TypeScript
+### 🚀 Languages and Frameworks:
 
-### ⚛️ Frontend Frameworks & Libraries
-React | Next.js | Vue
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
 
-### 🎨 Styling & UI
-Tailwind CSS | Material UI (MUI) | SCSS | CSS3 | HTML5
+### 🎨 Styling and UI:
 
-### 🔗 API & Data Handling
-Axios | REST APIs
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge\&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-C6538C?style=for-the-badge\&logo=sass\&logoColor=white)
 
-### 🧰 Developer Tools
-Git | GitHub | GitLens | VS Code
+### 🔗 API and Data Handling:
 
-### 📋 Project Management
-Jira | shortcut
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-### 🚀 Monitoring & Feature Management
-Sentry | Product Fruits | LaunchDarkly
+### 🧰 Developer Tools:
 
-### 🤖 AI Developer Tools
-Cursor | Claude | Codex | Lovable
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
+![GitLens](https://img.shields.io/badge/GitLens-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
-### Production Monitoring & Feature Management
+### 📋 Project Management:
 
-Sentry, Product Fruits, LaunchDarkly
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge\&logo=storybook\&logoColor=white)
 
-### AI Developer Tools
+### 🚀 Monitoring and Feature Management:
 
-Cursor, Claude, Codex, Lovable
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge\&logo=sentry\&logoColor=white)
+![Product Fruits](https://img.shields.io/badge/ProductFruits-FF7A59?style=for-the-badge)
+![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-4050FF?style=for-the-badge\&logo=launchdarkly\&logoColor=white)
+
+### 🤖 AI Developer Tools:
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-AI-FF4D6D?style=for-the-badge)
+
 
 ---
 
